@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+jupyter
+tensorflow
+transformers
+gensim
+seaborn
+kagglehub
+kaggle
+requests
+bs4
+chromadb
+pinecone-client
+torch
+torchvision
